@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "user.h": "c",
+        "typeinfo": "c"
+    }
+}
